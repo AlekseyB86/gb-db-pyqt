@@ -1,7 +1,5 @@
 /venv/
 /.idea/
 
-lesson1/chat/logs/client.log
-lesson1/chat/logs/server.log
 lesson2/logs/client.log
 lesson2/logs/server.log
