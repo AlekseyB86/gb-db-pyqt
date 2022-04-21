@@ -1,5 +1,9 @@
 /venv/
 /.idea/
+*.iml
 
 lesson2/logs/client.log
 lesson2/logs/server.log
+lesson3/logs/client.log
+lesson3/logs/server.log
+lesson3/server_base.db3
