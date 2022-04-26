@@ -2,15 +2,7 @@
 /.idea/
 *.iml
 
-lesson2/logs/client.log
-lesson2/logs/server.log
-lesson3/logs/client.log
-lesson3/logs/server.log
-lesson3/server_base.db3
-lesson4/logs/client.log
-lesson4/logs/server.log
-lesson4/server/server_base.db3
-lesson5/logs/client.log
-lesson5/logs/server.log
-lesson5/server/server_base.db3
-lesson5/server/client_base.db3
+lesson6/logs/client.log
+lesson6/logs/server.log
+lesson6/server/server_base.db3
+lesson6/server/client_base.db3
